@@ -1,0 +1,1 @@
+document.gerElementById("id").innerText = "is super";
